@@ -1,8 +1,6 @@
 IDEAS
 =====
-####All Watched Over
-####by Machines of Loving Grace
-
+###All Watched Over by Machines of Loving Grace
 __by Richard Brautigan__</br>  
 
 I'd like to think (and</br>  
