@@ -1,6 +1,6 @@
 Ghost Communication Devices
 ===========================
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
+[![Spiricom Cover](https://github.com/fitosegrera/ResearchDocs/blob/master/psychophony/images/spiricomCover.jpg)](#features)
 ###Spiricom
 Device to talk with the world of spirits...</br>  
 Talk by the creator of spiricom __(cassette recordings):__</b>  
