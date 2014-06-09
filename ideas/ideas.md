@@ -8,9 +8,9 @@ Ask Ted about good GLITCH theoretical and artistic resources</br>
 
 ###Glitch-art Resources
 Large collection of resources by the NY artist Phillip Stearns: </br>  
-[http://phillipstearns.wordpress.com/glitch-art-resources/](/http://phillipstearns.wordpress.com/glitch-art-resources/)</br>  
+[http://phillipstearns.wordpress.com/glitch-art-resources/](http://phillipstearns.wordpress.com/glitch-art-resources/)</br>  
 
 ###Glitch Artists
 Phillip Stearns Brooklyn based artist: </br>  
-[http://phillipstearns.wordpress.com/](/http://phillipstearns.wordpress.com/)</br>  
+[http://phillipstearns.wordpress.com/](http://phillipstearns.wordpress.com/)</br>  
 
