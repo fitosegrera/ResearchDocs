@@ -22,11 +22,18 @@ as if they were flowers</br>
 with spinning blossoms.</br>  
 
 I like to think</br>  
-(it has
-Reprinted in The Pill versus The Springhill Mine</br>  
-Disaster, copyright 1968 by Richard Brautigan.</br>  
+(it has to be!)</br>  
+of a cybernetic ecology</br>  
+where we are free of our labors</br>  
+and joined back to nature,</br>  
+returned to our mammal brothers and sisters,</br>  
+and all watched over</br>  
+by machines of loving grace.</br>
+
+__Reprinted in The Pill versus The Springhill Mine__</br>  
+__Disaster, copyright 1968 by Richard Brautigan.__</br>  
 [![Poem](https://raw.githubusercontent.com/fitosegrera/ResearchDocs/master/cybernetics/images/allWatchedOver.gif)](#features)</br>  
-This Poem inspired a series of films about how humans have been colonized by the machines they have built. Although we don't realize it, the way we see everything in the world today is through the eyes of the computers. It claims that computers have failed to liberate us and instead have distorted and simplified our view of the world around us.</br>
+This Poem inspired a series of films about how humans have been colonized by the machines they have built. Although we don't realize it, the way we see everything in the world today is through the eyes of the computers. It claims that computers have failed to liberate us and instead have distorted and simplified our view of the world around us.</br> 
 [Love and Power](/http://vimeo.com/38724174)</br>  
 [The Use and Abuse of Vegetational Concepts](/http://vimeo.com/73536828)</br>  
 [The Monkey in the Machine and the Machine in the Monkey](/http://vimeo.com/73561591)</br>  
@@ -35,10 +42,3 @@ This Poem inspired a series of films about how humans have been colonized by the
 3. The Monkey in the Machine and the Machine in the Monkey. This episode looks at why we humans find this machine vision so beguiling. The film argues it is because all political dreams of changing the world for the better seem to have failed - so we have retreated into machine-fantasies that say we have no control over our actions because they excuse our failure.
 Adam Curtis is a documentary film maker, whose work includes The Power of Nightmares, The Century of the Self, The Mayfair Set, Pandora's Box, The Trap and The Living Dead.</br>  
 [![Model of the World](https://raw.githubusercontent.com/fitosegrera/ResearchDocs/master/cybernetics/images/WD_Diagram.jpeg)](#features)
- to be!)</br>  
-of a cybernetic ecology</br>  
-where we are free of our labors</br>  
-and joined back to nature,</br>  
-returned to our mammal brothers and sisters,</br>  
-and all watched over</br>  
-by machines of loving grace.</br>  
