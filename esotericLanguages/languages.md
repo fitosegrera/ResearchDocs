@@ -4,6 +4,7 @@ COMPILERS, PROGRAMING AND/OR SCRIPTING LANGUAGES CREATION
 ###PYTHON
 __Tutorial: Writing an Interpreter with PyPy__</br>  
 [LINK](http://morepypy.blogspot.com/2011/04/tutorial-writing-interpreter-with-pypy.html)</br>  
+[GIT with examples](https://bitbucket.org/brownan/pypy-tutorial/src/42135b18f387?at=default)</br>  
 __SIMPLE INTERPRETER FROM SCRATCH IN PYTHON:__</br>  
 [LINK](http://jayconrod.com/posts/37/a-simple-interpreter-from-scratch-in-python-part-1)</br>  
 __Python: Writing a Compiler and Interpreter in 160 lines of code:__</br>  
@@ -11,8 +12,7 @@ __Python: Writing a Compiler and Interpreter in 160 lines of code:__</br>
 __Teaching Compilers with Python__</br>  
 [LINK](http://www.matthieuamiguet.ch/media/documents/TeachingCompilersWithPython_Slides.pdf)</br>   
 __Video Tutorial__</br>  
-[LINK](https://www.youtube.com/watch?v=1h1mM7VwNGo)</br>
-[GIT with examples](https://bitbucket.org/brownan/pypy-tutorial/src/42135b18f387?at=default)</br>    
+[LINK](https://www.youtube.com/watch?v=1h1mM7VwNGo)</br>  
 ###JAVASCRIPT
 __JISON__</br>  
 [LINK](http://zaach.github.io/jison/docs/)</br>  
