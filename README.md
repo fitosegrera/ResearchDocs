@@ -3,12 +3,12 @@ ResearchDocs
 This Repository is a colection of documents on various topics of my personal interest.
 
 __The documets include:__
-- Texts
-    Quotes
-    research papers
-    poems
-    manifestos
-    etc...
+- Texts</br>  
+    Quotes</br>  
+    research papers</br>  
+    poems</br>  
+    manifestos</br>  
+    etc...</br>  
 - Images
 - Videos
 - Interactive Media
