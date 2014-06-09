@@ -33,7 +33,7 @@ by machines of loving grace.</br>
 __Reprinted in The Pill versus The Springhill Mine__</br>  
 __Disaster, copyright 1968 by Richard Brautigan.__</br>  
 [![Poem](https://raw.githubusercontent.com/fitosegrera/ResearchDocs/master/cybernetics/images/allWatchedOver.gif)](#features)</br>  
-This Poem inspired a series of films about how humans have been colonized by the machines they have built. Although we don't realize it, the way we see everything in the world today is through the eyes of the computers. It claims that computers have failed to liberate us and instead have distorted and simplified our view of the world around us.</br> 
+This Poem inspired a series of films about how humans have been colonized by the machines they have built. Although we don't realize it, the way we see everything in the world today is through the eyes of the computers. It claims that computers have failed to liberate us and instead have distorted and simplified our view of the world around us.</br>   
 [Love and Power](/http://vimeo.com/38724174)</br>  
 [The Use and Abuse of Vegetational Concepts](/http://vimeo.com/73536828)</br>  
 [The Monkey in the Machine and the Machine in the Monkey](/http://vimeo.com/73561591)</br>  
