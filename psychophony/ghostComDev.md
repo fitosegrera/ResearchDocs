@@ -1,6 +1,6 @@
 Ghost Communication Devices
 ===========================
-[![Spiricom Cover](https://github.com/fitosegrera/ResearchDocs/blob/master/psychophony/images/spiricomCover.jpg)](#features)
+[![Spiricom Cover](https://raw.githubusercontent.com/fitosegrera/ResearchDocs/master/psychophony/images/spiricomCover.jpg)](#features)
 ###Spiricom
 Device to talk with the world of spirits...</br>  
 Talk by the creator of spiricom __(cassette recordings):__</b>  
