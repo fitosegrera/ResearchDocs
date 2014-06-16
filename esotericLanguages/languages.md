@@ -43,4 +43,7 @@ __ESOTERIC PROGRAMMING LANGUAGES LIST__</br>
 __ESOTERIC PROGRAM FORMS__</br>  
 [LINK](http://web.archive.org/web/20020609152409/www.catseye.mb.ca/esoteric/index.html)</br>  
 __The Aesthetics of Esolangs__</br>  
-[LINK](http://catseye.tc/node/The_Aesthetics_of_Esolangs)</br>   
+[LINK](http://catseye.tc/node/The_Aesthetics_of_Esolangs)</br>  
+[LIST OF ESOLANGS](http://rottytooth.tumblr.com/post/86601658735/esolangs-all-the-links-from-my-talk-at-bhqfu)</br>  
+[HUGE RESOURCE](http://esolangs.org/wiki/Main_Page)</br>  
+
