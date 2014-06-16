@@ -35,7 +35,9 @@ __Create your own programmming Language:__</br>
 [LINK2](http://www.codeproject.com/Articles/272494/Implementing-Programming-Languages-using-Csharp)</br>  
 [LINK3](http://nathansuniversity.com/)</br>  
 ###Esoteric programming languages
-An esoteric programming language (sometimes shortened to esolang) is a programming language designed to test the boundaries of computer programming language design, as a proof of concept, as software art, or as a joke. The use of esoteric distinguishes these languages from programming languages that working developers use to write software"[FULL DEFFINITION](http://en.wikipedia.org/wiki/Esoteric_programming_language)</br>  
+An esoteric programming language (sometimes shortened to esolang) is a programming language designed to test the boundaries of computer programming language design, as a proof of concept, as software art, or as a joke. The use of esoteric distinguishes these languages from programming languages that working developers use to write software"
+[ESOLANGS.COM](http://esolangs.com/)</br>  
+[FULL DEFFINITION](http://en.wikipedia.org/wiki/Esoteric_programming_language)</br>  
 __ESOTERIC PROGRAMMING LANGUAGES LIST__</br>  
 [LINK](http://en.wikipedia.org/wiki/Esoteric_programming_language)</br>    
 __ESOTERIC PROGRAM FORMS__</br>  
