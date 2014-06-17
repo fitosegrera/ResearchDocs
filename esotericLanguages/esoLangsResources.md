@@ -2,6 +2,7 @@ Esoteric-Languages
 ==================
 ###Esoteric programming languages
 An esoteric programming language (sometimes shortened to esolang) is a programming language designed to test the boundaries of computer programming language design, as a proof of concept, as software art, or as a joke. The use of esoteric distinguishes these languages from programming languages that working developers use to write software"
+[WIKI STEPS CREATE A PROGRAMMING LANGUAGE](http://www.wikihow.com/Create-a-Programming-Language)</br>  
 [ESOLANGS.COM](http://esolangs.com/)</br>  
 [FULL DEFFINITION](http://en.wikipedia.org/wiki/Esoteric_programming_language)</br>  
 __ESOTERIC PROGRAMMING LANGUAGES LIST__</br>  
