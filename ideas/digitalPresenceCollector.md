@@ -1,7 +1,7 @@
 DIGITAL PRESENCE COLLECTOR
 ==========================
 
-###HARDWARE
+####HARDWARE
 
 __SPARK CORE:__
 
@@ -12,7 +12,7 @@ __SPARK CORE:__
 [WIFI Scan c++ Library](https://gist.github.com/dmiddlecamp/11294083)</br>
 
 
-__Inspirations:__
+####Inspirations
 
 [Spiritus Lux](http://www.moorenimagic.com/#!the_illumini_spirit_light/cs9t)</br>
 
